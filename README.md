@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **Others projects**
 
+- 💬 Ask me about **HTML, CSS, JavaScript and Python**
+
 - 📫 How to reach me **vnavasc@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/víctor-navas-6825a01a](https://www.linkedin.com/in/víctor-navas-6825a01a)
